@@ -1,0 +1,36 @@
+
+WEEK 1 SALES DATA ANALYSIS — EDA REPORT
+
+Dataset rows after cleaning: 317
+Number of columns: 11
+Missing values remaining: 0
+Duplicate rows remaining: 0
+
+BUSINESS KPIs
+Total revenue: INR 1,488,880.00
+Distinct orders: 317
+Units sold: 621
+Average order value: INR 4,696.78
+
+KEY INSIGHTS
+Top product by revenue: Monitor (INR 512,510.00)
+Top region by revenue: West (INR 422,040.00)
+
+Revenue is summarized by product and month in the generated charts.
+This is a synthetic practice dataset; findings are for learning purposes.
+
+DATA QUALITY NOTES
+- Region contains 1 record marked as Unknown.
+- Payment_Method contains 1 record marked as Unknown.
+- These values are recorded as Unknown, not blank cells, and should be verified.
+
+MONTHLY TREND
+- Monthly revenue reaches its highest point in July 2026.
+- Revenue decreases in August 2026 and rises again in September 2026.
+
+RECOMMENDATIONS
+- Investigate the Unknown region and payment method records.
+- Monitor monthly revenue fluctuations.
+- Review product-level performance, especially Monitor, which generates the highest revenue.
+
+
