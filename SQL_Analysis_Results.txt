@@ -1,0 +1,48 @@
+WEEK 1 - SQL ANALYSIS RESULTS
+Dataset: Synthetic Sales Dataset
+Total Revenue: INR 1,488,880
+Distinct Orders: 317
+
+
+===== Revenue by Product =====
+       Product  Total_Revenue
+       Monitor         512510
+  Office Chair         346190
+        Webcam         131820
+    Headphones         121810
+     Desk Lamp          80490
+      Keyboard          77060
+Wireless Mouse          73270
+     USB-C Hub          68680
+  Laptop Stand          61600
+ Notebook Pack          15450
+
+===== Revenue by Region =====
+ Region  Total_Revenue
+   West         422040
+  South         295330
+   East         288800
+  North         260030
+Central         220910
+Unknown           1770
+
+===== Monthly Revenue =====
+  Month  Monthly_Revenue
+2026-01            98830
+2026-02           136690
+2026-03           159380
+2026-04           199450
+2026-05           175510
+2026-06           158740
+2026-07           239980
+2026-08           130900
+2026-09           189400
+
+===== Payment Method Analysis =====
+Payment_Method  Order_Count  Total_Revenue
+           UPI          122         572410
+   Credit Card           70         337350
+        Wallet           40         227260
+   Net Banking           40         223140
+    Debit Card           44         127850
+       Unknown            1            870
